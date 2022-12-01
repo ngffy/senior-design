@@ -1,6 +1,6 @@
 # Senior Design
 ## Team
-* Nicholas Griffey
+* Nick Griffey
 * Advisor: Dr. Rashmi Jha
 
 ## Project Abstract
