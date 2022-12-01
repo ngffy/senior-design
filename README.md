@@ -18,11 +18,11 @@ User stories can be found [here](user-stories.md). Additionally, here are some
 design diagrams created for the project.
 
 ### Level 0
-[](designdiagrams.dot.png)
+[img](designdiagrams.dot.png)
 ### Level 1
-[](designdiagrams.dot.2.png)
+[img](designdiagrams.dot.2.png)
 ### Level 2
-[](designdiagrams.dot.3.png)
+[img](designdiagrams.dot.3.png)
 
 ## Project Tasks and Timeline
 A rough tasklist and project timeline can be found [here](timeline.md). An
