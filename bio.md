@@ -1,7 +1,7 @@
 # Nick Griffey
 ## Contact Info
-Email: griffend@mail.uc.edu
-LinkedIn: https://www.linkedin.com/in/nick-griffey
+* Email: griffend@mail.uc.edu
+* LinkedIn: https://www.linkedin.com/in/nick-griffey
 
 ## Skills
 #### Skilled
