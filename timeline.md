@@ -21,15 +21,16 @@
 
 ## Detection of movement events
 * Research identification of walking, standing events (12/1 to 1/31) 
-* Determine techniques applicable to project
-* Implement applicable techniques
-* Test techniques
+* Determine techniques applicable to project (1/1 to 1/31)
+* Implement applicable techniques (2/1 to 3/31)
+* Test techniques (3/1 to 3/31)
 * Evaluate performance with data incorporating walking/standing/lifting events
+  (4/1 to 4/30)
 
 ## Sensor emulation
 * Research emulation of sensor data (12/1 to 1/31)
 * Research evaluation of real vs. emulated data (12/1 to 1/31)
-* Determine techniques applicable to project
-* Implement applicable techniques
-* Test techniques
-* Evaluate performance
+* Determine techniques applicable to project (1/1 to 1/31)
+* Implement applicable techniques (2/1 to 3/31)
+* Test techniques (3/1 to 3/31)
+* Evaluate performance (4/1 to 4/30)
